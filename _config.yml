@@ -20,8 +20,8 @@ title                    : "MJ Corner"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Madhav Jaisankar"
-description              : "MJ's website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "MJ's website powered by the Minimalist Jekyll Theme."
+url                      : "https://millionlemur767.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -109,9 +109,9 @@ analytics:
 author:
   name             : "Madhav Jaisankar"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Welcome to my personal site."
   location         : "Milton, Ontario, Canada"
-  email            : "madav.jaisankar@gmail.com"
+  email            : "madhav.jaisankar@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
